@@ -2,7 +2,7 @@
  <center><img src ="https://dresma.ai/wp-content/uploads/2022/02/Engineering-Manager-MERN-Stack.gif" width="300" ></center>
 
 <h1 align="center">Hi  I'm Yuvasabari</h1>
-<h3 align="center">Life is like a Software Debug your Problems Update Yourself.Software Development is Technical Activity Conducted By Human Beings. A passionate frontend developer (App and Web Development)</h3>
+<h3 align="center">Life is like a Software Debug your Problems Update Yourself.Software Development is Technical Activity Conducted By Human Beings. A passionate frontend developer (Web Development)</h3>
 
  <img src ="https://user-images.githubusercontent.com/95607404/162607921-1ad2e91b-26d0-4cf9-a868-a4dd1ad1267c.gif" width="200" align="right"/>
 
@@ -15,7 +15,6 @@
 
 - 🔭 I’m currently learning **App Development and Web Development**
 
-- 🌱 I’m currently learning Flutter
 
 
 - ⚡ Fun fact **I am interested in Explore.Music is the best thing in my life .I want to travel Around the world!...**
